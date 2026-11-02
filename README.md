@@ -103,7 +103,6 @@
 * [Text Analysis](#text-analysis)
 * [Tracking](#tracking)
 * [Transportation](#transportation)
-* [URL Shorteners](#url-shorteners)
 * [Vehicle](#vehicle)
 * [Video](#video)
 * [Weather](#weather)
@@ -335,11 +334,8 @@
 | [Box](https://developer.box.com/) | File Sharing and Storage | `OAuth`| Yes | Unknown |
 | [Databricks](https://docs.databricks.com/api/workspace/introduction) | Manage Databricks workspaces, clusters, jobs, and notebooks via a Rest API | `apiKey` | Yes | Unknown |
 | [Delta Lake](https://docs.delta.io/latest/delta-apidoc.html) | Open-source storage framework enabling Lakehouse architecture with Spark, PrestoDB, Flink, Trino, Hive, and APIs | No | No | Unknown |
-| [ddownload](https://ddownload.com/api) | File Sharing and Storage | `apiKey` | Yes | Unknown |
 | [Dropbox](https://www.dropbox.com/developers) | File Sharing and Storage | `OAuth`| Yes | Unknown |
-| [File.io](https://www.file.io) | Super simple file sharing, convenient, anonymous and secure | No | Yes | Unknown |
 | [Gcore Storage](https://docs.gcore.com/storage) | S3-Compatible Object Storage is a fast and scalable cloud storage system by Gcore that gives you an opportunity to store and retrieve any amount of data at any time. High-performance storage for use as a CDN origin. | `apiKey` | Yes | Yes |
-| [GoFile](https://gofile.io/api) | Unlimited size file uploads for free | `apiKey` | Yes | Unknown |
 | [Google Drive](https://developers.google.com/drive/) | File Sharing and Storage | `OAuth`| Yes | Unknown |
 | [Gyazo](https://gyazo.com/api/docs) | Save & Share screen captures instantly | `apiKey` | Yes | Unknown |
 | [Imgbb](https://api.imgbb.com/) | Simple and quick private image sharing | `apiKey` | Yes | Unknown |
@@ -349,7 +345,6 @@
 | [Quip](https://quip.com/dev/automation/documentation) | File Sharing and Storage for groups | `apiKey` | Yes | Yes |
 | [Smash](https://api.fromsmash.com/) | Upload large files on websites, mobile apps, SaaS solutions and custom workflows | `apiKey` | Yes | Yes |
 | [Storj](https://docs.storj.io/dcs/) | Decentralized Open-Source Cloud Storage | `apiKey` | Yes | Unknown |
-| [The Null Pointer](https://0x0.st) | No-bullshit file hosting and URL shortening service | No | Yes | Unknown |
 | [Web3 Storage](https://web3.storage/) | File Sharing and Storage for Free with 1TB Space | `apiKey` | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
@@ -584,8 +579,6 @@
 | [ProxyKingdom](https://proxykingdom.com) | Rotating Proxy API that produces a working proxy on every request | `apiKey`| Yes | Yes |
 | [Pusher Beams](https://pusher.com/beams) | Push notifications for Android & iOS | `apiKey`| Yes | Unknown |
 | [Pusher Channels](https://pusher.com/channels) | Realtime features | `apiKey`| Yes | Unknown |
-| [QR code](https://www.qrtag.net/api/) | Create an easy to read QR code and URL shortener | No | Yes | Yes |
-| [QR code](http://goqr.me/api/) | Generate and decode / read QR code graphics | No | Yes | Unknown |
 | [QR code Generator](https://docs.openqr.io/) | Static and Dynamic QR code generator with custom and unique QR code design | `apiKey` | Yes | Unknown |
 | [Qrcode Monkey](https://www.qrcode-monkey.com/qr-code-api-with-logo/) | Integrate custom and unique looking QR codes into your system or workflow | No | Yes | Unknown |
 | [QuickChart](https://quickchart.io/) | Generate chart and graph images | No | Yes | Yes |
@@ -1840,27 +1833,6 @@ like WhatsApp | `apiKey` | Yes | Yes |
 | [Tripadvisor](https://developer-tripadvisor.com/home/) | Rating content for a hotel, restaurant, attraction or destination | `apiKey` | Yes | Unknown |
 | [Uber](https://developer.uber.com/products) | Uber ride requests and price estimation | `OAuth`| Yes | Yes |
 | [Velib metropolis, Paris, France](https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole) | Velib Open Data API | No | Yes | No |
-
-**[⬆ Back to Index](#index)**
-
-### URL Shorteners
-| API | Description | Auth | HTTPS | CORS |
-|---|---|---|---|---|
-| [1pt](https://github.com/1pt-co/api/blob/main/README.md) | A simple URL shortener | No | Yes | Yes |
-| [Bitly](http://dev.bitly.com/get_started.html) | URL shortener and link management | `OAuth`| Yes | Unknown |
-| [Bly.to](https://blyto.com/docs) | URL shortening service with analytics and tracking capabilities | `apiKey` | Yes | Yes |
-| [CleanURI](https://cleanuri.com/docs) | URL shortener service | No | Yes | Yes |
-| [Cutt.ly](https://cutt.ly/api-documentation/cuttly-links-api) | URL shortener service | `apiKey` | Yes | Unknown |
-| [Free Url Shortener](https://ulvis.net/developer.html) | Free URL Shortener offers a powerful API to interact with other sites | No | Yes | Unknown |
-| [Kutt](https://docs.kutt.it/) | Free Modern URL Shortener | `apiKey` | Yes | Yes |
-| [Manyapis.com](https://manyapis.com/products/short-url) | Free URL shortener API with up to 50 requests per day  | Yes | Yes | Yes |
-| [Mgnet.me](http://mgnet.me/api.html) | Torrent URL shorten API | No | Yes | No |
-| [Ogli](https://app.ogli.sh) | Generate short links like any other shortener but with custom OG/meta tags for perfect previews. Ideal for SPAs, apps, and anyone who wants control over what gets shared. | `apiKey` | Yes | Yes |
-| [Rebrandly](https://developers.rebrandly.com/v1/docs) | Custom URL shortener for sharing branded links | `apiKey` | Yes | Unknown |
-| [Spoo.me](https://spoo.me/api) | Free URL shortener with custom alias, max-clicks, password protection and advanced analytics support | No | Yes | Yes |
-| [TinyURL](https://tinyurl.com/app/dev) | Shorten long URLs | `apiKey` | Yes | No |
-| [T.LY](https://t.ly/docs) | URL shortener and link management service | `apiKey` | Yes | Yes |
-| [Urlmskr](https://github.com/Axorax/urlmskr#urlmskr-api) | Easy and fast masked, shortened link creation | No | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 
